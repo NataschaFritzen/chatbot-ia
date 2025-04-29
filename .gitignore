@@ -1,0 +1,24 @@
+# Ignorar arquivos temporários do VS Code
+.vscode/
+
+# Ignorar arquivos de bytecode do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+.venv/
+env/
+venv/
+
+# Ignorar arquivos PDF, como o PDF que o chatbot lê
+*.pdf
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração local (ex: .env, que pode conter configurações sensíveis)
+*.env
+
+# Ignorar arquivos do Windows, como o desktop.ini
+desktop.ini
+
